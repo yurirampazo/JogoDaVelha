@@ -36,11 +36,9 @@ java -jar <file-name>
 
 ## 👨‍💻 Contribuidores
 
-Muito obrigado pelo aprendizado, sem vocês não teria conseguido. 
-
 <table>
   <tr>
-	<td align="center"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-zamora-2b3a34180//"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78884190?v=4" alt=""/><br /><sub><b>Lucas Zamora</b></sub></a><br /><a href="https://github.com/Lucas-Zamora" title="Participante Generation Brasil">👨‍🚀</a></td> 
+	<td align="center"><a href="https://www.linkedin.com/in/lucas-zamora-2b3a34180//"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78884190?v=4" alt=""/><br /><sub><b>Lucas Zamora</b></sub></a><br /><a href="https://github.com/Lucas-Zamora" title="Participante Generation Brasil">👨‍🚀</a></td> 
 	  <td align="center"><a href="https://www.linkedin.com/in/igorjps/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79109692?v=4" alt=""/><br /><sub><b>Igor Pereira</b></sub></a><br /><a href="https://www.linkedin.com/in/igorjps/" title="Participante Generation Brasil">👨‍🚀</a></td> 
 	   <td align="center"><a href="https://www.linkedin.com/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79532365?v=4" width="100px;" alt=""/><br /><sub><b>Palmira Filipe</b></sub></a><br /><a href="https://www.linkedin.com/" title="Participante Generation Brasil">👨‍🚀</a></td> 
 	     <td align="center"><a href="https://www.linkedin.com/in/pietra-santos-0330171aa/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75040165?v=4" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /><a href="https://www.linkedin.com/in/pietra-santos-0330171aa/" title="Participante Generation Brasil">👨‍🚀</a></td>
