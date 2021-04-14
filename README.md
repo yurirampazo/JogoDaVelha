@@ -2,7 +2,7 @@
 
 
 <h4 align="center"> 
-  STATUS:  FINALIZADO  🚧
+  STATUS:  FINALIZADO
 </h4>
 
 
